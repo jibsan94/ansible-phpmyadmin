@@ -1,0 +1,31 @@
+---
+dependencies:
+  # - jibsan94.ansible-apachessl-redirect
+  # - jibsan94.ansible-mysql
+  # - jibsan94.ansible-php-mysql
+  # - jibsan94.ansible-php
+
+galaxy_info:
+  author: Jibsan Joel Rosa Toirac
+  description: phpMyAdmin installation for Linux
+  company: No Company
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.0
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags:
+    - database
+    - development
+    - web
+    - mysql
+    - mariadb
+    - php
+    - phpmyadmin
