@@ -36,9 +36,9 @@ The username and password with which phpMyAdmin will attempt to log into the MyS
 
 ## Dependencies
 
-  - jibsan94.ansible_apache_ssl_redirect
-  - jibsan94.ansible_mysqldb
-  - jibsan94.ansible_php
+  - jibsan94.ansible-apache-ssl-redirect
+  - jibsan94.ansible-mysqldb
+  - jibsan94.ansible-php
 
 ## Example Playbook
 
