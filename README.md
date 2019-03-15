@@ -34,7 +34,7 @@ These variables define the connection method and hostname phpMyAdmin will use to
 
 The username and password with which phpMyAdmin will attempt to log into the MySQL server. The `mysql_root_password` should be set as part of the `jibsan94.ansible-mysql` role, but you can change the user and password to another account entirely, and you most defintely *should*, especially if you're connecting to a non-development database server!
 
-Dependencies
+## Dependencies
 
   - jibsan94.ansible-apache-ssl-redirect
   - jibsan94.ansible-mysqldb
