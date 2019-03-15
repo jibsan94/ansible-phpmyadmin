@@ -1,9 +1,9 @@
 ---
 dependencies:
-  # - jibsan94.ansible-apachessl-redirect
-  # - jibsan94.ansible-mysql
-  # - jibsan94.ansible-php-mysql
-  # - jibsan94.ansible-php
+  - jibsan94.ansible-apachessl-redirect
+  - jibsan94.ansible-mysql
+  - jibsan94.ansible-php-mysql
+  - jibsan94.ansible-php
 
 galaxy_info:
   author: Jibsan Joel Rosa Toirac
